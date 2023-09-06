@@ -1,4 +1,4 @@
-# Java QA Automation Demo
+# Java QA Automation Demo 2
 
 This repository contains a QA automation demonstration that utilizes Java, Maven, Selenium WebDriver with Selenide, and JUnit. The project is built to automate crucial steps of the e-commerce workflow on Google and Rozetka websites.
 
