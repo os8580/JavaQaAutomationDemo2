@@ -11,10 +11,10 @@ You will need the following tools and technologies:
 * Java JDK 17
 * Maven
 
-\```bash
+```bash
 # Running the Test Suite
 mvn test
-\```
+```
 
 ## Project Structure
 
